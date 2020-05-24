@@ -1,0 +1,8 @@
+.modalButtons{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btnCancel{
+    margin-right: 10px;
+}
